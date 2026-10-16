@@ -150,16 +150,19 @@ Follow these steps to run CareNexa locally.
 
 ---
 
-
 ## 📸 Screenshots
 
-| Home | Doctors Directory |
+| Home Page | Doctors Directory |
 |:---:|:---:|
 | ![Home](./screenshots/home.png) | ![Doctors](./screenshots/doctors.png) |
 
 | Patient Dashboard | Doctor Dashboard |
 |:---:|:---:|
-| ![Patient](./screenshots/patient-dashboard.png) | ![Doctor](./screenshots/doctor-dashboard.png) |
+| ![Patient Dashboard](./screenshots/patient-dashboard.png) | ![Doctor Dashboard](./screenshots/doctor-dashboard.png) |
+
+| My Appointments | Medical Records |
+|:---:|:---:|
+| ![My Appointments](./screenshots/myappointments.png) | ![Medical Records](./screenshots/doctors-directory.png) |
 
 ---
 
