@@ -95,7 +95,8 @@ src/
 ├── App.jsx                   # Application routes and configuration
 └── index.js                  # Application entry point
 ```
---- 
+
+---
 
 ## 🚀 Getting Started
 
@@ -141,7 +142,8 @@ Follow these steps to run CareNexa locally.
 
 ## 🔑 Demo Credentials
 
-> Replace these with real values from your project, or register new accounts from the **Register** page.
+Register using your credentials; once as a doctor, and once as a patient.
+For example,
 
 | Role | Email | Password |
 |---|---|---|
@@ -149,7 +151,6 @@ Follow these steps to run CareNexa locally.
 | Doctor / Admin | `doctor@example.com` | `123456` |
 
 ---
-
 ## 📸 Screenshots
 
 | Home Page | Doctors Directory |
@@ -165,9 +166,7 @@ Follow these steps to run CareNexa locally.
 | ![My Appointments](./screenshots/myappointments.png) | ![Medical Records](./screenshots/doctors-directory.png) |
 
 ---
-
 ## 🗺️ Roadmap
-
 - [x] Role-based authentication
 - [x] Doctor directory with specialty filter
 - [x] Appointment booking & status management
@@ -192,10 +191,7 @@ Contributions are welcome!
 5. Open a Pull Request
 
 ---
-
-
 ## 🎯 Project Goals
-
 CareNexa was built to demonstrate practical frontend development skills, including:
 
 - Building reusable React components.
@@ -204,25 +200,21 @@ CareNexa was built to demonstrate practical frontend development skills, includi
 - Managing application state and persisted browser data.
 - Creating responsive interfaces with Bootstrap.
 - Organizing a multi-page application into maintainable components.
-
+  
+---
 ## ⚠️ Implementation Notes
-
 - **Client-Side Storage:** User, appointment, and medical-record data are stored locally in the browser. Data is not automatically synchronized across devices or users.
 - **Demo Authentication:** Client-side authentication and protected routes are intended for demonstration purposes and do not provide production-grade security.
 - **Backend Integration:** A production deployment would require a secure backend, server-side authentication and authorization, and a database with appropriate access controls.
 - **Medical Data:** Use fictional sample data only. Do not store real patient information in this demonstration application.
 
-
-
+---
 ## 👨‍💻 Author
-
 **Hassan Mahdi**
-
 - GitHub: [@hassanMahdi-2002](https://github.com/hassanMahdi-2002)
 - Project Repository: [CareNexa Clinic System](https://github.com/hassanMahdi-2002/carenexa-clinic-system)
-
+  
 ---
-
 <div align="center">
 
 Created with ❤️ for professional healthcare management.
