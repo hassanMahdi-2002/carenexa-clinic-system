@@ -23,7 +23,7 @@ Built with **React.js, Bootstrap 5, Formik, and React Router v6**, CareNexa demo
 ## 📑 Table of Contents
 - [Key Features](#-key-features)
 - [Tech Stack](#️-tech-stack)
-- [Project Architecture](#-project-architecture)
+- [Project-Architecture](#-project-architecture)
 - [Getting Started](#-getting-started)
 - [Demo Credentials](#-demo-credentials)
 - [Screenshots](#-screenshots)
