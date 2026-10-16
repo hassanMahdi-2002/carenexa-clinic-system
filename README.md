@@ -14,7 +14,7 @@ Built with **React.js, Bootstrap 5, Formik, and React Router v6**, CareNexa demo
 ![React Router](https://img.shields.io/badge/React_Router-v6-CA4245?logo=reactrouter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-[Live Demo](#) · [Report Bug](https://github.com/hassanMahdi-2002/carenexa-clinic-system/issues) · [Request Feature](https://github.com/hassanMahdi-2002/carenexa-clinic-system/issues)
+[Live Demo](https://carenexa-clinic-system-6pcj75rgf-hassan-ae68.vercel.app/) · [Report Bug](https://github.com/hassanMahdi-2002/carenexa-clinic-system/issues) · [Request Feature](https://github.com/hassanMahdi-2002/carenexa-clinic-system/issues)
 
 </div>
 
