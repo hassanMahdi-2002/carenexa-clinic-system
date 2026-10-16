@@ -31,7 +31,6 @@ Built with **React.js, Bootstrap 5, Formik, and React Router v6**, CareNexa demo
 - [Contributing](#-contributing)
 - [Project-Goals](#-project-goals)
 - [Implementation-Notes](#-implementation-notes)
-- [License](#-license)
 - [Author](#-author)
 
 ## ✨ Key Features
@@ -210,11 +209,7 @@ CareNexa was built to demonstrate practical frontend development skills, includi
 - **Backend Integration:** A production deployment would require a secure backend, server-side authentication and authorization, and a database with appropriate access controls.
 - **Medical Data:** Use fictional sample data only. Do not store real patient information in this demonstration application.
 
-## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
 
 ## 👨‍💻 Author
 
